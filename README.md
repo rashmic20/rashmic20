@@ -1,7 +1,7 @@
 ## Hi there 👋
 #🔭 I’m currently working on Healthcare Data Analysis projects.
 #🌱 I’m currently learning Power BI and Python.
-# 👯 I’m looking to collaborate on ...
+#   I’m looking to collaborate on tableau visualisation projects.
 #🤔 I’m looking for data analytics roles.
 - 💬 Ask me about ...
 - 📫 How to reach me: I can be reached at rashmic027@gmail.com
