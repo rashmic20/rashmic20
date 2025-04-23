@@ -1,9 +1,9 @@
 ## Hi there 👋
 #🔭 I’m currently working on Healthcare Data Analysis projects.
 #🌱 I’m currently learning Power BI and Python.
-#   I’m looking to collaborate on tableau visualisation projects.
+#   I’m looking to collaborate on NLP and tableau visualisation projects.
 #🤔 I’m looking for data analytics roles.
-- 💬 Ask me about ...
+- 💬I am a Data Analyst with 5+ years of experience in transforming complex datasets into actionable insights that drive business decisions. I leverage SQL, Python (Pandas, NumPy, Matplotlib), and data visualization tools (Tableau, Power BI, MS Excel) to deliver data-driven solutions. 
 - 📫 How to reach me: I can be reached at rashmic027@gmail.com
 
 <!--
