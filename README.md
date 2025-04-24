@@ -1,4 +1,4 @@
-## Hi there 👋
+##RASHMI CHAUHAN
 🔭 I’m currently working on Healthcare Data Analysis projects using SQL, Tableau and Power BI.
 
 🌱 I’m looking to collaborate on NLP and Tableau visualisation projects.
