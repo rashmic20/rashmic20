@@ -2,9 +2,9 @@
 
 🔭 I’m currently working on Healthcare Data Analysis projects using SQL, Tableau and Power BI.
 
-🌱 I’m looking to collaborate on NLP and Tableau visualisation projects.
+🌱 Looking to collaborate on NLP and Tableau visualisation projects.
 
-🤔 I’m looking for data analytics roles.
+🤔 Looking for data analytics roles.
 
 💬About me: I am a Data Analyst with 5+ years of experience in transforming complex datasets into actionable insights that drive business decisions. I leverage SQL, Python (Pandas, NumPy, Matplotlib), and data visualization tools (Tableau, Power BI, MS Excel) to deliver data-driven solutions. 
 
