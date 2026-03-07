@@ -4,8 +4,6 @@
 
 🌱 Looking to collaborate on NLP and Tableau visualisation projects.
 
-🤔 Looking for data analytics roles.
-
 💬About me: I am a Data Analyst with 5+ years of experience in transforming complex datasets into actionable insights that drive business decisions. I leverage SQL, Python (Pandas, NumPy, Matplotlib), and data visualization tools (Tableau, Power BI, MS Excel) to deliver data-driven solutions. 
 
 📫 How to reach me: I can be reached at rashmic027@gmail.com
